@@ -1,1 +1,3 @@
 # snakeLK
+
+Just a refactored of snake legacy code...
